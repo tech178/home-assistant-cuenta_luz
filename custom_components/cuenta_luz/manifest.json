@@ -1,9 +1,10 @@
 {
   "domain": "cuentadelaluz",
   "name": "Cuenta de la Luz",
-  "version": "1.0.0",
+  "version": "v1.0.0",
   "documentation": "https://github.com/tu_usuario/cuentaluz",
   "requirements": ["requests"],
   "dependencies": [],
   "codeowners": ["tech178"]
 }
+
