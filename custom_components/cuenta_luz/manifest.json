@@ -1,12 +1,9 @@
 {
-  "domain": "cuenta_luz",
-  "name": "Cuenta de Luz",
-  "version": "1.1",
-  "requirements": [
-    "requests",
-    "beautifulsoup4"
-  ],
+  "domain": "cuentadelaluz",
+  "name": "Cuenta de la Luz",
+  "version": "1.0.0",
+  "documentation": "https://github.com/tu_usuario/cuentaluz",
+  "requirements": ["requests"],
   "dependencies": [],
-  "codeowners": ["@tu_usuario"],
-  "config_flow": true
+  "codeowners": ["tech178"]
 }
