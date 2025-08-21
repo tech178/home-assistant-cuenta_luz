@@ -1,0 +1,13 @@
+{
+  "en": {
+    "title": "Cuenta de Luz",
+    "step_user": {
+      "title": "Configura tu sensor de luz",
+      "description": "Selecciona tu comuna y la opción de consumo"
+    },
+    "data": {
+      "comuna": "Comuna",
+      "opcion": "Opción"
+    }
+  }
+}
