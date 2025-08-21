@@ -1,5 +1,5 @@
 {
-  "domain": "cuentadelaluz",
+  "domain": "cuenta_luz",
   "name": "Cuenta de la Luz",
   "version": "v1.0.0",
   "documentation": "https://github.com/tu_usuario/cuentaluz",
@@ -7,4 +7,5 @@
   "dependencies": [],
   "codeowners": ["tech178"]
 }
+
 
