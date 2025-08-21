@@ -1,0 +1,12 @@
+{
+  "domain": "cuenta_luz",
+  "name": "Cuenta de Luz",
+  "version": "1.1.0",
+  "requirements": [
+    "requests",
+    "beautifulsoup4"
+  ],
+  "dependencies": [],
+  "codeowners": ["@tu_usuario"],
+  "config_flow": true
+}

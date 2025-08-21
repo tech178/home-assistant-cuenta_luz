@@ -1,0 +1,1 @@
+DOMAIN = "cuenta_luz"
