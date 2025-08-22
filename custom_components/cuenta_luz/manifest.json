@@ -1,9 +1,0 @@
-{
-  "domain": "cuenta_luz",
-  "name": "Cuenta de Luz",
-  "version": "0.1.0",
-  "documentation": "https://github.com/tech178/cuenta_luz_ha",
-  "requirements": ["requests", "beautifulsoup4"],
-  "codeowners": ["@tech178"],
-  "config_flow": true
-}
