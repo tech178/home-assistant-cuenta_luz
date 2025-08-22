@@ -1,0 +1,11 @@
+{
+  "domain": "cuenta_luz",
+  "name": "Cuenta de Luz",
+  "version": "0.1.0",
+  "documentation": "https://github.com/tuusuario/cuenta_luz_ha",
+  "requirements": ["selenium", "webdriver-manager"],
+  "dependencies": [],
+  "codeowners": ["@tuusuario"],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
